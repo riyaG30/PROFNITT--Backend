@@ -6,3 +6,6 @@ dotenv.config ({
 })
 
 connectDB()
+/*
+
+try to check DB connections*/
